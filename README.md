@@ -1,5 +1,10 @@
-### Hi there 👋
+## My Missions
 
+My mission is the technology and knowledge transfer from the Telecom space to Industrial Communication.
+To do that, I leverage the BEAM virtual machine, as well as the programming language Erlang/OTP, developed at Ericsson AB.
+My other mission is to make Open Source work as a sustainable model for industrial software components.
+
+We need to build the future, my friends. Get in touch
 <!--
 **ioolkos/ioolkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
